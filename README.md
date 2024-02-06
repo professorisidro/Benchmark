@@ -4,7 +4,8 @@ O Objetivo deste repositório é apenas mostrar uma forma de entendermos o desem
 
 Veja os tempos de execução em cada caso
 
-`   Listas
+`
+    Listas
     TAM			 TEMPO
     1000		  62ms
     10000		 743ms
